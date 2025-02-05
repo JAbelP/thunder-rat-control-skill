@@ -5,12 +5,12 @@ Control several diffrent items around the house
 Control several diffrent items in the house
 
 ## Examples
-* "Thunder strike"
-* "Thunder wave"
-* "Thunder shock"
+* "Thunder strike" - This would control the TV
+* "Thunder wave" - This would control the smart bulbs
+* "Thunder shock" - This was just to get it to scream at you
 
 ## Credits
-Abel P
+JAbelP
 
 ## Category
 **IoT**
